@@ -1,0 +1,10 @@
+[submodule "rules"]
+	path = rules
+	url = https://MoruApp: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@github.com/MoruApp/data-rule.git
+	branch = main
+[submodule "reference/morudata-rule"]
+	path = reference/morudata-rule
+	url = https://github.com/MoruApp/data-rule.git
+[submodule "samples/morudata-sample-code"]
+	path = samples/morudata-sample-code
+	url = https://github.com/MoruApp/data-sample-code.git
